@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "266485293292",
+    "firebase_url": "https://myapplication-8920f.firebaseio.com",
+    "project_id": "myapplication-8920f",
+    "storage_bucket": "myapplication-8920f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266485293292:android:c2e9b2a0c9236224",
+        "android_client_info": {
+          "package_name": "farmbuddy.vivatech.squad.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266485293292-161n3esg2sspuhdttkd8n7g06u8h0a13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "farmbuddy.vivatech.squad.com.myapplication",
+            "certificate_hash": "74043f93e18b79ea3f0632bd30c47dff750c6df2"
+          }
+        },
+        {
+          "client_id": "266485293292-ej4trclmgcqegia4beb9gk5um3eq3u2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNO4Mup1zVTxjXnL3y_a1IcsXb2dn5rWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266485293292-ej4trclmgcqegia4beb9gk5um3eq3u2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
